@@ -12,3 +12,4 @@ C:\Users\ginag\boolean\boolean\TestProject\obj\Debug\net10.0\refint\TestProject.
 C:\Users\ginag\boolean\boolean\TestProject\obj\Debug\net10.0\TestProject.pdb
 C:\Users\ginag\boolean\boolean\TestProject\obj\Debug\net10.0\TestProject.genruntimeconfig.cache
 C:\Users\ginag\boolean\boolean\TestProject\obj\Debug\net10.0\ref\TestProject.dll
+C:\Users\ginag\boolean\boolean\TestProject\obj\Debug\net10.0\TestProject.sourcelink.json

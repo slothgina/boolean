@@ -5,3 +5,5 @@
 //string myValue = "a";
 //Console.WriteLine(myValue == "a");
 
+Console.WriteLine("a" == "a ");
+
